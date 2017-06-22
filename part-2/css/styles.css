@@ -27,3 +27,39 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+article.film {
+  border: 1px solid lightgrey;
+  width: 100%;
+  overflow: auto;
+}
+
+.film-poster {
+  float:left;
+  width: 30%;
+
+  position: relative;
+}
+
+.film-details {
+  float: right;
+  width: 65%;
+}
+
+.action-like {
+    text-align: right;
+    color: red;
+}
+
+.action-watch-later {
+    color: red;
+    position: absolute;
+    top: 18px;
+    right: 10px;
+}
+
+.film-details {
+    width: 65%;
+    /* float: right; */
+    margin-left: 5%;
+}
