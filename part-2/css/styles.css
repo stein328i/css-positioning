@@ -57,9 +57,3 @@ article.film {
     top: 18px;
     right: 10px;
 }
-
-.film-details {
-    width: 65%;
-    /* float: right; */
-    margin-left: 5%;
-}
